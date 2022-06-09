@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(158, 154, 154);
+    text-align: center;
+}
+
+.App{
+    margin-top: 30px;
+    padding-left: 0%;
+}
+input{
+    background-color: rgba(187, 181, 181, 0.836);
+}
+
+#btn-login{
+    background-color: green;
+    border-radius: 10px;
+}
+
+#btn-login:hover{
+    background-color: blue;
+}
