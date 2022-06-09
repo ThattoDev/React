@@ -13,10 +13,9 @@ const TerceiroComponente = () => {
     console.log(result);
     }
 
-    return (
-        
+    return (  
         <container  className="App">
-            <h1>Calculadora de exponenciação</h1>
+            <h1>Calculadora</h1>
             <label>Primeiro Número</label>
             <input type="number" value={num1} onChange={(e) => num1 = e.target.value} />
             <label>Segundo Número</label>
